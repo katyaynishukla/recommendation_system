@@ -18,4 +18,7 @@ Following should be the format of files:
 - song_df_2.pkl
 
 
-After downloading all the files in a folder open "app.py" and run it, a local host will open in browser and website will automatically open.
+After downloading all the files in a folder open "app.py" and run it, a local host will open in browser and website will open.
+
+All the files and folders are in master branch of this repository.
+Select branch as master to view all the files.
