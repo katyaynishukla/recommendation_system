@@ -1,6 +1,21 @@
 # recommendation_system
 Collaborative filtering and popularity based song recommendation system
 
+ALL FILES AND CODE OF SONG RECOMMENDATION SYSTEM IS IN "Song-Recommenation-System" Branch.
+
+  > recommendation_system (repository name)
+
+    > main (default branch)
+    > Song-Recommendation-System (Branch which contain all files of song recommendaion system)
+
+        > static (folder)
+        > templates (folder)
+        > app.py 
+        > popular.pkl
+        > pt.pkl
+        > similarity_scores.pkl
+        > song_df_2.pkl
+
 To run this project in your local computer following are required to be installed:
 
 1. Flask
@@ -19,4 +34,3 @@ similarity_scores.pkl
 song_df_2.pkl
 
 After downloading all the files in a folder open "app.py" and run it, a local host will open in browser and website will open.
-All the files and folders are in master branch of this repository. Select branch as master to view all the files.
