@@ -39,3 +39,5 @@ After downloading all the files in a folder open "app.py" and run it, a local ho
 
 Data used to train ML model in Song Recommendation System.
 https://www.kaggle.com/code/mgmarques/million-song-recommendation-engines/data
+
+![Screenshot (328)](https://user-images.githubusercontent.com/81090089/170914311-e405b459-a622-40da-a97e-7689d1f593c6.png)
